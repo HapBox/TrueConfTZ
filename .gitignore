@@ -1,0 +1,10 @@
+.idea
+.vscode
+.env
+
+dist
+node_modules
+test/coverage
+
+.env
+package-lock.json
